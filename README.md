@@ -10,6 +10,12 @@ This project performs fine-grained classification of **5 families of plants : As
 - [![Kaggle](https://img.shields.io/badge/View%20on-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/ghousiah/multi-family-plant-classification?scriptVersionId=246060987)
 
 ---
+## Faster code
+- This code used saved dataset obtained from the previous code. So the there is no need for long hour for preprocessing dataset again. For example if you want to rerun the training with higher epoch number.
+- Kaggle link: https://www.kaggle.com/code/ghousiah/saved-dataset-multi-family-plant-classification
+- kaggle dataset used: https://www.kaggle.com/datasets/ghousiah/datasetforfivefamiliesplant/data
+
+---
 ## 📁 Dataset
 
 **Source**: `PlantCLEF2024singleplanttrainingdata.csv` size: 750M from [Download Link](https://lab.plantnet.org/LifeCLEF/PlantCLEF2024/single_plant_training_data/)
