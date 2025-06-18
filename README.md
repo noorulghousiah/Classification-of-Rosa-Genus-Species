@@ -36,3 +36,7 @@ for p in model.parameters():
     p.requires_grad = False
 for p in model.get_classifier().parameters():
     p.requires_grad = True
+
+
+## 🧠 Pretrained Model
+
