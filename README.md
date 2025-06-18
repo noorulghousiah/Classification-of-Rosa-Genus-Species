@@ -12,7 +12,7 @@ This project performs fine-grained classification of **5 families of plants : As
 ---
 ## Faster code
 - This code used saved dataset obtained from the previous code. So the there is no need for long hour for preprocessing dataset again. For example if you want to rerun the training with higher epoch number.
-- Kaggle link: https://www.kaggle.com/code/ghousiah/saved-dataset-multi-family-plant-classification
+- Kaggle link: https://www.kaggle.com/code/ghousiah/saved-dataset-multi-family-plant-classification?scriptVersionId=246081704
 - kaggle dataset used: https://www.kaggle.com/datasets/ghousiah/datasetforfivefamiliesplant/data
 
 ---
