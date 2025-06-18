@@ -36,7 +36,32 @@ for p in model.parameters():
     p.requires_grad = False
 for p in model.get_classifier().parameters():
     p.requires_grad = True
+```
+
+---  
+## **Time Taken**
+1) Download and Cache Dataset Images = 2 hour
+Downloading 10000 images to 'plant_cache'...
+100%|██████████| 10000/10000 [2:08:28<00:00,  1.30it/s]
+   
+2) Training Time for 5 epochs=
+
+Epoch 1/5 | Time: 72.76s | Train Loss: 1.6177 | Val Loss: 1.8418 | Val F1: 0.5251
+✅ Best model saved as 'best_model_epoch_1.pth'
+Epoch 2/5 | Time: 72.43s | Train Loss: 1.6452 | Val Loss: 1.7294 | Val F1: 0.5173
+Epoch 3/5 | Time: 72.38s | Train Loss: 1.5792 | Val Loss: 1.7595 | Val F1: 0.5547
+✅ Best model saved as 'best_model_epoch_3.pth'
+Epoch 4/5 | Time: 72.81s | Train Loss: 1.5572 | Val Loss: 1.7007 | Val F1: 0.5564
+✅ Best model saved as 'best_model_epoch_4.pth'
+Epoch 5/5 | Time: 72.15s | Train Loss: 1.5704 | Val Loss: 1.8604 | Val F1: 0.5596
+✅ Best model saved as 'best_model_epoch_5.pth'
+✅ Final model checkpoint saved as 'final_checkpoint.pth'
+⏱️ Total training time: 6.05 minutes
 
 
-## 🧠 Pretrained Model
-
+---  
+## **Evaluation**
+📊 Evaluation Metrics:
+✅ F1 Score   : 0.5635
+✅ Precision  : 0.5958
+✅ Recall     : 0.5847
