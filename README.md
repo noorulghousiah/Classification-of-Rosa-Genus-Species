@@ -54,7 +54,7 @@ for p in model.get_classifier().parameters():
 Downloading 10000 images to 'plant_cache'...
 100%|██████████| 10000/10000 [2:08:28<00:00,  1.30it/s]
    
-2) Training Time for 5 epochs=
+2) Training Time for 25 epochs=
 
 Epoch 24/25 | Time: 72.27s | Train Loss: 1.3514 | Val Loss: 1.5813 | Val F1: 0.5634
 Epoch 25/25 | Time: 71.76s | Train Loss: 1.3316 | Val Loss: 1.5822 | Val F1: 0.5373
