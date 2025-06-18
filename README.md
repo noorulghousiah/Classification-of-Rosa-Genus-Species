@@ -5,9 +5,9 @@ This project performs fine-grained classification of **5 families of plants : As
 
 ---
 # Multi-Family-Plant-Identification
-- kaggle link: https://www.kaggle.com/code/ghousiah/multi-family-plant-classification
+- kaggle link: https://www.kaggle.com/code/ghousiah/multi-family-plant-classification?scriptVersionId=246060987
 - kaggle dataset used: https://www.kaggle.com/datasets/ghousiah/plantclef/data
-- [![Kaggle](https://img.shields.io/badge/View%20on-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/ghousiah/multi-family-plant-classification)
+- [![Kaggle](https://img.shields.io/badge/View%20on-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/ghousiah/multi-family-plant-classification?scriptVersionId=246060987)
 
 ---
 ## 📁 Dataset
