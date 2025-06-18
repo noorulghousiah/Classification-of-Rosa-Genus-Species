@@ -8,7 +8,7 @@ This project performs fine-grained classification of **5 families of plants : As
 
 ## 📁 Dataset
 
-**Source**: `PlantCLEF2024singleplanttrainingdata.csv`  from [Download Link](https://lab.plantnet.org/LifeCLEF/PlantCLEF2024/single_plant_training_data/)
+**Source**: `PlantCLEF2024singleplanttrainingdata.csv` size: 750M from [Download Link](https://lab.plantnet.org/LifeCLEF/PlantCLEF2024/single_plant_training_data/)
 
 **Preprocessing**:
 1) Dataset filtered to only includes labeled images from Family: {'Asteraceae': 0, 'Brassicaceae': 1, 'Fabaceae': 2, 'Poaceae': 3, 'Rosaceae': 4}.
