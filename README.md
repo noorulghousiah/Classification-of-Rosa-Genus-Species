@@ -1,11 +1,15 @@
-# Multi-Species-Plant-Identification
 
-
-# 🌿 Family Classification of Plants using EfficientNet (PlantCLEF2024 Subset)
-[PlantCLEF2024](https://www.kaggle.com/competitions/plantclef-2025)
+# 🌿 Family Classification of Plants using EfficientNet (PlantCLEF2024 Subset) [PlantCLEF2024](https://www.kaggle.com/competitions/plantclef-2025)
 
 This project performs fine-grained classification of **5 families of plants : Asteraceae, Brassicaceae, Fabaceae, Poaceae, Rosaceae**.
 
+---
+# Multi-Family-Plant-Identification
+kaggle link: https://www.kaggle.com/code/ghousiah/multi-family-plant-classification
+kaggle dataset used: https://www.kaggle.com/datasets/ghousiah/plantclef/data
+[![Kaggle](https://img.shields.io/badge/View%20on-Kaggle-blue?logo=kaggle)]([https://www.kaggle.com/your-username/your-notebook-name](https://www.kaggle.com/code/ghousiah/multi-family-plant-classification))
+
+---
 ## 📁 Dataset
 
 **Source**: `PlantCLEF2024singleplanttrainingdata.csv` size: 750M from [Download Link](https://lab.plantnet.org/LifeCLEF/PlantCLEF2024/single_plant_training_data/)
