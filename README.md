@@ -32,7 +32,7 @@ This project performs fine-grained classification of **5 families of plants : As
 ---
 
 ## 🧠 Pretrained Model
-- **Base Model**: [`efficientnet_b0`](https://pytorch.org/vision/stable/models/generated/torchvision.models.efficientnet_b0.html)
+- **Base Model**: [`efficientnet_lite0`]
 - **Framework**: PyTorch
 - **Model Input Size**: 96 x 96
 - **Model Output Class**: 5 Families
